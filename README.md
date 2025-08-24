@@ -32,9 +32,9 @@ The dataset originates from the 1990 U.S. Census and contains information on dem
 - Right-skewed predictors were **log-transformed** to improve linear modeling.  
 - Rare category `ISLAND` (only 5 rows) was removed.  
 
-**California Coast:**
+**Median House Pricing - California Coast**
 
-<img src="images/Housing Map.png" alt="Housing Map" width="600"/>
+<img src="images/Housing Map.png" alt="Housing Map" width="800"/>
 
 ---
 
