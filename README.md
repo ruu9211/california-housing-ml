@@ -33,7 +33,8 @@ The dataset originates from the 1990 U.S. Census and contains information on dem
 - Rare category `ISLAND` (only 5 rows) was removed.  
 
 **California Coast:**
-<img src="images/Housing Map.png" alt="Housing Map" width="550"/>
+
+<img src="images/Housing Map.png" alt="Housing Map" width="600"/>
 
 ---
 
